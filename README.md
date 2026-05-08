@@ -76,8 +76,5 @@ The dashboard makes it easier to explore trends and compare customer groups.
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here:
 
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
+![Dashboard Preview](Images/Dashboard.png)
